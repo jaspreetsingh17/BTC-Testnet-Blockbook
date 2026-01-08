@@ -36,8 +36,8 @@ Blockbook provides fast blockchain indexing, address balance tracking, and API e
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
-cd btc-bbk
+git clone https://github.com/jaspreetsingh17/BTC-Testnet-Blockbook.git
+cd BTC-Testnet-Blockbook
 
 # Make the setup script executable
 chmod +x setup-blockbook.sh
@@ -252,3 +252,4 @@ For setup script issues, please open an issue in this repository.
 ---
 
 **Note**: This is a third-party setup repository. For official Blockbook support, visit the [Trezor Blockbook repository](https://github.com/trezor/blockbook).
+
